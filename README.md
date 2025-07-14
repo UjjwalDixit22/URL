@@ -1,3 +1,5 @@
+
+<!-- AFFORDABLE MEDICALS ASSIGNMENT -->
 # URL Shortener with JWT Authentication
 
 A full-stack URL shortener application with JWT-based authentication, comprehensive analytics, and modern UI components.
